@@ -1,7 +1,7 @@
 # simple-calculator
 This is a simple calculator that I make in Rust. It takes two numbers and an operand and it will give you the result. It can do addition, substraction, multiplication, and raise to a power.
 
-<sub>I just remembered that explaining the code using comments is actually a good idea. Silly me.</sub>
+<sub>I just remembered that explaining the code using comments is actually a good practice to do. Silly me.</sub>
 
 ## Installation
 1. Clone this repo.
