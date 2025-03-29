@@ -1,16 +1,16 @@
-# simple-calculator
-This is a simple calculator that I make in Rust. It takes two numbers and an operand and it will give you the result. It can do addition, substraction, multiplication, and raise to a power.
+# rust-simple-calculator
+This is a simple calculator that I made in Rust. It takes two numbers and an operand and it will give you the result. It can do addition, substraction, multiplication, and raise to a power.
 
 <sub>I just remembered that explaining the code using comments is actually a good practice to do. Silly me.</sub>
 
 ## Installation
 1. Clone this repo.
 ```
-git clone https://github.com/Irevle/simple-calculator
+git clone https://github.com/Irevle/rust-simple-calculator
 ```
 2. Move to the cloned cirectory
 ```
-cd simple-calculator
+cd rust-simple-calculator
 ```
 3. Build the project
 ```
